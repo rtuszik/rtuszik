@@ -5,6 +5,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 09 August 2023 - To: 08 August 2024
+
 Markdown     45 mins         █████████████▒░░░░░░░░░░░   53.11 %
 YAML         21 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.26 %
 Python       14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
