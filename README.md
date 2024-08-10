@@ -2,8 +2,6 @@
 
 ![https://github.com/rtuszik](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rtuszik&theme=github_dark)
 
-![](https://raw.githubusercontent.com/rtuszik/rtuszik/output/github-contribution-grid-snake-dark.svg)
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -15,3 +13,5 @@ INI        0 hrs 1 mins    ▒░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+![](https://raw.githubusercontent.com/rtuszik/rtuszik/output/github-contribution-grid-snake-dark.svg)
