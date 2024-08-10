@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![https://github.com/rtuszik](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rtuszik&theme=github_dark)
 
 <!--START_SECTION:waka-->
