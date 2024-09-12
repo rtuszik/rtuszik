@@ -1,6 +1,9 @@
 ![https://github.com/rtuszik](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rtuszik&theme=github_dark)
 
-#### Weekly Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtuszik&show_icons=true&theme=transparent&hide_rank=true)
+
+#### Stats
+
 <!--START_SECTION:waka-->
 
 ```txt
