@@ -1,6 +1,18 @@
-![https://github.com/rtuszik](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rtuszik&theme=github_dark)
+## ![https://github.com/rtuszik](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rtuszik&theme=github_dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtuszik&show_icons=true&theme=transparent&hide_rank=true)
+---
+
+![](https://raw.githubusercontent.com/rtuszik/rtuszik/main/metrics.plugin.activity.svg)
+
+---
+
+![](https://raw.githubusercontent.com/rtuszik/rtuszik/main/metrics.plugin.habits.facts.svg)
+
+---
+
+![](https://raw.githubusercontent.com/rtuszik/rtuszik/main/metrics.plugin.stars.svg)
+
+---
 
 #### Stats
 
@@ -15,5 +27,7 @@ Bash         4 hrs 36 mins   █▓░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+---
 
 ![](https://raw.githubusercontent.com/rtuszik/rtuszik/output/github-contribution-grid-snake-dark.svg)
