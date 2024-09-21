@@ -16,5 +16,5 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: ${{ secrets.WAKATIME_URL }}
           SECTION_NAME: waka
-          TIME_RANGE: last_30_days
+          TIME_RANGE: last_7_days
           SHOW_TIME: true
