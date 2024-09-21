@@ -1,20 +1,7 @@
 ## ![https://github.com/rtuszik](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rtuszik&theme=github_dark)
 
 ---
-
-![](https://raw.githubusercontent.com/rtuszik/rtuszik/main/metrics.plugin.activity.svg)
-
----
-
-![](https://raw.githubusercontent.com/rtuszik/rtuszik/main/metrics.plugin.habits.facts.svg)
-
----
-
-![](https://raw.githubusercontent.com/rtuszik/rtuszik/main/metrics.plugin.stars.svg)
-
----
-
-#### Stats
+#### My Week:
 
 <!--START_SECTION:waka-->
 
