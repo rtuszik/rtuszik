@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="701" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="385" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">rtuszik/rtuszik</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">output</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0556eba</div>
+                                        <div class="message">Deploy to GitHub pages</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -103,154 +123,6 @@ Verstehe natürlich, dass das ein großer Aufwand ist.
                                     <div class="commit">
                                         <div class="sha">#7607618</div>
                                         <div class="message">Deploy to GitHub pages</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 457 commits in
-                                        <span class="repo">rtuszik/dawarich</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0625a4f</div>
-                                        <div class="message">Update issue templates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2aa168c</div>
-                                        <div class="message">Merge pull request #629 from Freika/chore/various-fixes-1
-
-Various fixes #1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e904d39</div>
-                                        <div class="message">Make sure cache jobs are run only on server start</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#73fc9be</div>
-                                        <div class="message">Fix inconsistent password for the `dawarich_db` service in `docker-compose_mounted_volumes.yml`.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4eab6a4</div>
-                                        <div class="message">Merge pull request #628 from Freika/feature/geoapify-reverse-geocoding
-
-Implement support for Geoapify as reverse geocoding service</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1229b41</div>
-                                        <div class="message">Update specs for reverse geocoding</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#974f45a</div>
-                                        <div class="message">Remove REVERSE_GEOCODING_ENABLED env var</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6884407</div>
-                                        <div class="message">Remove APPLICATION_HOST env var.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae6dc5a</div>
-                                        <div class="message">Remove Photon API env vars and use DawarichSettings for reverse geocoding settings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10afb3f</div>
-                                        <div class="message">Fix Photon API for patreon supporters</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f366da9</div>
-                                        <div class="message">Add notification about Photon API being under heavy load</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e9f539</div>
-                                        <div class="message">Revert "Imported points will now be reverse geocoded only after import is finished."</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#039c4ef</div>
-                                        <div class="message">Merge pull request #603 from Freika/dependabot/bundler/rubocop-rails-2.28.0
-
-Bump rubocop-rails from 2.27.0 to 2.28.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4fa76f</div>
-                                        <div class="message">Merge pull request #602 from Freika/dependabot/bundler/oj-3.16.9
-
-Bump oj from 3.16.8 to 3.16.9</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b255cb3</div>
-                                        <div class="message">Merge pull request #601 from Freika/dependabot/bundler/tailwindcss-rails-3.1.0
-
-Bump tailwindcss-rails from 3.0.0 to 3.1.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ad5a4c</div>
-                                        <div class="message">Bump rubocop-rails from 2.27.0 to 2.28.0
-
-Bumps [rubocop-rails](https://github.com/rubocop/rubocop-rails) from 2.27.0 to 2.28.0.
-- [Release notes](https://github.com/rubocop/rubocop-rails/releases)
-- [Changelog](https://github.com/rubocop/rubocop-rails/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/rubocop/rubocop-rails/compare/v2.27.0...v2.28.0)
-
----
-updated-dependencies:
-- dependency-name: rubocop-rails
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd3a2e4</div>
-                                        <div class="message">Bump oj from 3.16.8 to 3.16.9
-
-Bumps [oj](https://github.com/ohler55/oj) from 3.16.8 to 3.16.9.
-- [Release notes](https://github.com/ohler55/oj/releases)
-- [Changelog](https://github.com/ohler55/oj/blob/develop/CHANGELOG.md)
-- [Commits](https://github.com/ohler55/oj/compare/v3.16.8...v3.16.9)
-
----
-updated-dependencies:
-- dependency-name: oj
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cdc884b</div>
-                                        <div class="message">Bump tailwindcss-rails from 3.0.0 to 3.1.0
-
-Bumps [tailwindcss-rails](https://github.com/rails/tailwindcss-rails) from 3.0.0 to 3.1.0.
-- [Release notes](https://github.com/rails/tailwindcss-rails/releases)
-- [Changelog](https://github.com/rails/tailwindcss-rails/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/rails/tailwindcss-rails/compare/v3.0.0...v3.1.0)
-
----
-updated-dependencies:
-- dependency-name: tailwindcss-rails
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd31fb4</div>
-                                        <div class="message">Add database constraints for users table</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#946377e</div>
-                                        <div class="message">Add production environment configuration</div>
                                     </div>
                                 </div>
                             </section>
