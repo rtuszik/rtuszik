@@ -1,3 +1,4 @@
+---
 name: Metrics
 on:
     # schedule: [{ cron: "0 0 * * *" }]
@@ -12,34 +13,34 @@ jobs:
             contents: write
         steps:
             - name: Activity metrics
-              uses: lowlighter/metrics@latest
+              uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
               with:
-                  token: ${{ secrets.METRICS_TOKEN }}
-                  config_timezone: Europe/Berlin
-                  filename: metrics.plugin.activity.svg
-                  base: ""
-                  plugin_activity: yes
-                  plugin_activity_limit: 5
-                  plugin_activity_days: 0
-                  plugin_activity_filter: all
+                token: ${{ secrets.METRICS_TOKEN }}
+                config_timezone: Europe/Berlin
+                filename: metrics.plugin.activity.svg
+                base: ""
+                plugin_activity: yes
+                plugin_activity_limit: 5
+                plugin_activity_days: 0
+                plugin_activity_filter: all
 
             - name: Habits facts
-              uses: lowlighter/metrics@latest
+              uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
               with:
-                  token: ${{ secrets.METRICS_TOKEN }}
-                  config_timezone: Europe/Berlin
-                  filename: metrics.plugin.habits.facts.svg
-                  base: ""
-                  plugin_habits: yes
-                  plugin_habits_facts: yes
-                  plugin_habits_charts: no
+                token: ${{ secrets.METRICS_TOKEN }}
+                config_timezone: Europe/Berlin
+                filename: metrics.plugin.habits.facts.svg
+                base: ""
+                plugin_habits: yes
+                plugin_habits_facts: yes
+                plugin_habits_charts: no
 
             - name: Stars metrics
-              uses: lowlighter/metrics@latest
+              uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
               with:
-                  token: ${{ secrets.METRICS_TOKEN }}
-                  config_timezone: Europe/Berlin
-                  filename: metrics.plugin.stars.svg
-                  base: ""
-                  plugin_stars: yes
-                  plugin_stars_limit: 3
+                token: ${{ secrets.METRICS_TOKEN }}
+                config_timezone: Europe/Berlin
+                filename: metrics.plugin.stars.svg
+                base: ""
+                plugin_stars: yes
+                plugin_stars_limit: 3
