@@ -13,7 +13,7 @@ jobs:
             contents: write
         steps:
             - name: Activity metrics
-              uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
+              uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96d # latest
               with:
                 token: ${{ secrets.METRICS_TOKEN }}
                 config_timezone: Europe/Berlin
@@ -25,7 +25,7 @@ jobs:
                 plugin_activity_filter: all
 
             - name: Habits facts
-              uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
+              uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96d # latest
               with:
                 token: ${{ secrets.METRICS_TOKEN }}
                 config_timezone: Europe/Berlin
@@ -36,7 +36,7 @@ jobs:
                 plugin_habits_charts: no
 
             - name: Stars metrics
-              uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
+              uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96d # latest
               with:
                 token: ${{ secrets.METRICS_TOKEN }}
                 config_timezone: Europe/Berlin
